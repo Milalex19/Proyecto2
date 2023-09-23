@@ -74,10 +74,12 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
  El KPI de volatilidad nos muestra el margen máximo de volatilidad viable para las criptomonedas
  
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 400">
+
 ### Página 2
 El KPI rendimiento mensual nos muestra el comportamiento de las criptomonedas y sus márgenes mensuales.
 
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 400">
+
 ### Página 3
 El KPI rendimiento diario nos muestra el margen de utilidad ideal para inversiones a corto plazo.
 
