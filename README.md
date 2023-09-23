@@ -2,16 +2,10 @@
 
 
 
-<p align='center'>
-<img src ="https://blog.soyhenry.com/content/images/2021/02/HEADER-BLOG-NEGRO-01.jp">
-<p>
-
-
-
 ***Data Analyst***
 
 <p align='center'>
-<img src = 'criptomonedas.jpg' height = 50>
+<img src = 'https://github.com/Milalex19/Proyecto_2/blob/main/_src/criptomonedas.jpg' height = 500>
 <p>
 <h1 align='center'>
 
@@ -73,10 +67,10 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
 
 
 <p align='center'>
-<img src ="portada.jpg">
-<img src ="KPI.jpg">
-<img src ="Mes.jpg">
-<img src ="Diario.jpg">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 400>
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 400">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 400">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 400">
 <p>
 
 
