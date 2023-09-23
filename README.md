@@ -67,10 +67,10 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
 
 
 <p align='center'>
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 400>
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 430">
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 430">
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 430">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 350>
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 360">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 360">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 360">
 <p>
 
 
