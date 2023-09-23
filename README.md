@@ -83,7 +83,7 @@ El KPI rendimiento mensual nos muestra el comportamiento de las criptomonedas y 
 ### Página 3
 El KPI rendimiento diario nos muestra el margen de utilidad ideal para inversiones a corto plazo.
 
-<"https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 400">
+![Diario].("https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg")
 
 
 
