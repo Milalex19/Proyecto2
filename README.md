@@ -68,7 +68,7 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
 
 ### Portada
  Portada del Dashboard hecho en Power BI
-![Portada].(https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg)
+![Portada](https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg)
 
  ### Página 1
  El KPI de volatilidad nos muestra el margen máximo de volatilidad viable para las criptomonedas
@@ -78,12 +78,12 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
 ### Página 2
 El KPI rendimiento mensual nos muestra el comportamiento de las criptomonedas y sus márgenes mensuales.
 
-![Mes].(https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg)
+![Mes](https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg)
 
 ### Página 3
 El KPI rendimiento diario nos muestra el margen de utilidad ideal para inversiones a corto plazo.
 
-![Diario].(https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg)
+![Diario](https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg)
 
 
 
