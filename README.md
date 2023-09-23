@@ -66,22 +66,23 @@ El proyecto sigue un enfoque estructurado de Análisis Exploratorio de Datos (ED
 Se han creado KPIs con el propósito de evaluar el comportamiento del rendimiento diario de las criptomonedas, analizar los porcentajes de capitalización y visualizar la volatilidad de la criptomoneda.
 
 
-<p align='center'>
+### Portada
  Portada del Dashboard hecho en Power BI
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 380>
- 
+
+ ### Página 1
  El KPI de volatilidad nos muestra el margen máximo de volatilidad viable para las criptomonedas
  
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 400">
-
-El rendimiento mensual nos muestra el comportamiento de las criptomonedas y sus márgenes mensuales.
+### Página 2
+El KPI rendimiento mensual nos muestra el comportamiento de las criptomonedas y sus márgenes mensuales.
 
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 400">
-
-El rendimiento diario nos muestra el margen de utilidad ideal para inversiones a corto plazo.
+### Página 3
+El KPI rendimiento diario nos muestra el margen de utilidad ideal para inversiones a corto plazo.
 
 <img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 400">
-<p>
+
 
 
 
