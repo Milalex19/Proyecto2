@@ -5,7 +5,7 @@
 ***Data Analyst***
 
 <p align='center'>
-<img src = 'https://github.com/Milalex19/Proyecto_2/blob/main/_src/criptomonedas.jpg' height = 500>
+<img src = 'https://github.com/Milalex19/Proyecto_2/blob/main/_src/criptomonedas.jpg' height = 450>
 <p>
 <h1 align='center'>
 
@@ -67,10 +67,10 @@ Se han creado KPIs con el propósito de evaluar el comportamiento del rendimient
 
 
 <p align='center'>
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 350>
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 360">
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 360">
-<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 360">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/portada.jpg" height = 380>
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/KPI.jpg" height = 400">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Mes.jpg" height = 400">
+<img src ="https://github.com/Milalex19/Proyecto_2/blob/main/_src/Diario.jpg" height = 400">
 <p>
 
 
